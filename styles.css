@@ -195,6 +195,7 @@ body{
   position: relative;
   display:block;
   outline: none;
+  z-index: 10;
 }
 
 .envelope:focus-visible .seal{
